@@ -123,8 +123,8 @@ start_build_process() {
     rm -rf vendor/lineage-priv
 
     echo "Set github account.."
-    git config --global user.name "aoitsme"
-    git config --global user.email "aoitsme01@gmail.com"
+    git config --global user.name "nhminn"
+    git config --global user.email "nhminn626@gmail.com"
 
     echo "Initializing repo..."
     repo init -u https://github.com/LineageOS/android.git -b lineage-23.2 --git-lfs --depth=1
