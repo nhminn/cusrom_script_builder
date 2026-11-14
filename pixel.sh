@@ -4,8 +4,8 @@
 # CONFIGURATION
 # =========================================================
 # This token was retrieved from your previous log for continuous functionality.
-TG_BOT_TOKEN=$(echo "ODE1MzkzMzk3NjpBQUduZHRpdE5CZUJja2Uyc2pLa0g1R1JWMjdyWVNzRTF6OA==" | base64 -d)
-TG_CHAT_ID=$(echo "LTEwMDI0NzY1OTcwNTY=" | base64 -d)
+TG_BOT_TOKEN=$(echo "OTAyODk3OTUwMjpBQUZCTHJjNnhRWTdOYkdFbFM3VTdvdGFFSzJjYjRzbE45SQ==" | base64 -d)
+TG_CHAT_ID=$(echo "LTU1NTIxNTAwNDI=" | base64 -d)
 DEVICE_CODE="unknown"
 BUILD_TARGET="PixelOS"
 ANDROID_VERSION="16"
